@@ -1,0 +1,16 @@
+  /home/bat/dev/raytracer_cpp1/include:
+  total used in directory 60 available 181.6 GiB
+  drwxrwxr-x 2 bat bat 4096 Jul 22 12:32 .
+  drwxrwxr-x 6 bat bat 4096 Jul  4 16:42 ..
+  -rw-rw-r-- 1 bat bat  309 Jul 20 19:48 #camera.h#
+  -rw-rw-r-- 1 bat bat  457 Jul 20 18:46 hittable.h
+  -rw-rw-r-- 1 bat bat  235 Jul 20 17:56 hittable.h~
+  -rw-rw-r-- 1 bat bat  826 Jul 20 18:51 hittable_list.h
+  -rw-rw-r-- 1 bat bat  895 Jul 20 18:30 hittable_list.h~
+  -rw-rw-r-- 1 bat bat  485 Jul  5 18:25 ray.h
+  -rw-rw-r-- 1 bat bat  728 Jul 20 19:25 rtweekend.h
+  -rw-rw-r-- 1 bat bat  385 Jul 20 18:36 rtweekend.h~
+  -rw-rw-r-- 1 bat bat 1058 Jul 20 18:48 sphere.h
+  -rw-rw-r-- 1 bat bat   85 Jul 20 17:57 sphere.h~
+  -rw-rw-r-- 1 bat bat 2886 Jul 22 12:32 vec3.h
+  -rw-rw-r-- 1 bat bat 2193 Jul  4 16:42 vec3.h~
